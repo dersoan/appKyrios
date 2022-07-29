@@ -1,4 +1,14 @@
 # appKyrios
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org/)
+- [React Native](https://reactnative.dev/)
+- [TypeScript](https://www.typescriptlang.org/)
+
 aplicativo
 <br /><br />
 ![image](https://user-images.githubusercontent.com/6932511/181659457-ac0a674c-33e2-4945-b9c2-e42c18e43fec.png)
